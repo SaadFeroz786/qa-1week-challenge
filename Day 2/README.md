@@ -24,14 +24,3 @@
 ## 📂 Deliverables
 - [Bug Report Template (CSV)](./bug-report-template.csv)
 - Jira screenshots (placed in `screenshots/` folder).
-
----
-
-## 🔗 LinkedIn Update
-> ✅ Day 2 of my QA Challenge is done!  
-> ✔ Reported 5 real bugs in Jira  
-> ✔ Learned structured bug reporting and Excel tracking  
->  
-> 📂 GitHub: [Insert link here]  
->  
-> #QA #Jira #BugReporting #LearningInPublic
